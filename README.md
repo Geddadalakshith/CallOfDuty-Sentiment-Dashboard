@@ -19,11 +19,6 @@ Dashboard Highlights
 - Sentiment score distribution from -1 (negative) to +1 (positive)  
 - Detailed table showing sample tweets and engagement  
 
-## 📸 Dashboard Preview
-![Full Dashboard](images/dashboard_full.png)
-![KPI Cards](images/kpi_cards.png)
-![Sentiment Charts](images/sentiment_chart.png)
-
  Key Insights
 - Majority of tweets show **positive sentiment** toward Call of Duty  
 - **Positive tweets** received the highest engagement  
